@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Website
+# Welcome to My Personal Website
 
-This is a simple homepage created with Jekyll on Windows 11.
+Hi! I am **M. Abbas**, a Computer Engineering student at the University of Engineering and Technology.  
 
-- [About](/about)
+Here you can find my projects, blog posts, and contact information.  
+
+- [About Me](/about)
 - [Blog](/blog)
