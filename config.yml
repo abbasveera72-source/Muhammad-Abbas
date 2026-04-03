@@ -1,7 +1,13 @@
-title: "M. Abbas | Tech & Engineering"
+title: "M. Abbas | Tech & Engineering" Portfolio
+email: chenabian7861214@gmail.com
 description: "Personal portfolio and blog of M. Abbas, Computer Engineering Student at UET"
-baseurl: "" # leave empty for root
-url: "http://localhost:4000"
+baseurl: "" # leave blank for GitHub Pages root
+url: "https://YOURUSERNAME.github.io"
+
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 markdown: kramdown
-permalink: /:title/
+highlighter: rouge
