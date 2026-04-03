@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Welcome to My Personal Website
 
-Hi, I am **M. Abbas**, Computer Engineering student.
+Hi! I am **M. Abbas**, a Computer Engineering student at the University of Engineering and Technology.  
 
-- [About Me](/about/)
-- [Blog](/blog/)
+Here you can find my projects, blog posts, and contact information.  
+
+- [About Me](/about)
+- [Blog](/blog)
