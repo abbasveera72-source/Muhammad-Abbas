@@ -1,15 +1,14 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
-# About Me
+## About Me
 
-I am **M. Abbas**, currently studying Computer Engineering at the University of Engineering and Technology.
+I am **M. Abbas**, a Computer Engineering student at the University of Engineering and Technology.
+I am passionate about technology, web development, and learning new skills.
 
-I enjoy learning new technologies, building websites, and sharing knowledge through my blog.
-
+Dark theme vibes included. 🌌
 ## Contact Information
 
 - Email: chenabian7861214@gmail.com  
