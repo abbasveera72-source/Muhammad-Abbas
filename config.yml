@@ -1,1 +1,7 @@
-title: M Abbas
+title: "M. Abbas | Tech & Engineering"
+description: "Portfolio of M. Abbas"
+baseurl: ""   # ✅ KEEP EMPTY (important)
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+permalink: /:title/
