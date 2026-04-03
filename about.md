@@ -3,8 +3,12 @@ layout: default
 title: About
 ---
 
-# About This Site
+# About Me
 
-This site is powered by Jekyll and running locally on Windows 11.
+I am **M. Abbas**, currently studying Computer Engineering at the University of Engineering and Technology.  
 
-It demonstrates pages, blog posts, and a simple layout.
+I enjoy learning new technologies, building websites, and sharing knowledge through my blog.  
+
+**Contact Information:**  
+- Email: [chenabian7861214@gmail.com](mailto:chenabian7861214@gmail.com)  
+- Phone: 0370-0715602
