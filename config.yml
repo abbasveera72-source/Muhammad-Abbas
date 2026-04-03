@@ -1,5 +1,5 @@
-title: My Jekyll Site
-description: A simple Jekyll website on Windows 11
+title: "M. Abbas | Tech & Engineering"
+description: "Personal portfolio and blog of M. Abbas, Computer Engineering Student at UET"
 baseurl: "" # leave empty for root
 url: "http://localhost:4000"
 theme: minima
