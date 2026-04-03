@@ -3,10 +3,9 @@ layout: default
 title: Home
 ---
 
-# Home
+# Welcome
 
-Welcome to my website.
+Hi, I am **M. Abbas**, Computer Engineering student.
 
-Go to:
-- [About](/about.html)
-- [Blog](/blog.html)
+- [About Me](/about/)
+- [Blog](/blog/)
