@@ -1,38 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Arial;
   max-width: 800px;
   margin: auto;
-  padding: 20px;
-  line-height: 1.6;
-  background-color: #f9f9f9;
-  color: #333;
 }
 
-header nav a {
+nav a {
   margin-right: 10px;
-  text-decoration: none;
-  color: #1a73e8;
-}
-
-header nav a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  text-align: center;
-  font-size: 0.9em;
-  color: #555;
-}
-
-h1 {
-  color: #1a73e8;
-}
-
-ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-ul li {
-  margin-bottom: 10px;
 }
